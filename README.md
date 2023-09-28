@@ -12,3 +12,9 @@ is common in algorithmic fairness research. By preserving the predictive power o
 while simultaneously reducing bias, we aim to achieve a balance of fairness and accuracy, a
 highly desired yet elusive goal in Machine Learning.
 
+
+The code can be found in the notebook: Thesis_v2.ipynb
+
+The full dataset: AdultData.csv
+Training data: clean_encoded_adult_train_v2.csv
+Test data: clean_encoded_adult_test_v2.csv
